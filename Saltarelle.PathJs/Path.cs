@@ -23,7 +23,7 @@ namespace PathApi
             get { return null; }
         }
 
-        public static JsDictionary<string, object> Parameters
+        public static JsDictionary<string, string> Parameters
         {
             [InlineCode("this.params")] get { return null; }
         }

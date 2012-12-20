@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PathApi</RootNamespace>
-    <AssemblyName>PathApi</AssemblyName>
+    <AssemblyName>Script.Path</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NoStdLib>True</NoStdLib>
